@@ -1,0 +1,28 @@
+* {
+    background-color: bisque;
+    font-family: "Fira Sans", serif;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    font-family: "Abril Fatface", serif;
+    color: rgb(85, 21, 21);
+}
+
+h2 {
+    text-align: center;
+    font-size: 35px;
+    color: rgb(85, 21, 21);
+    font-family: "Kalnia", serif;
+}
+
+table {
+    margin: 0 auto;
+}
+
+td {
+    border: 2px solid black;
+    border-radius: 5px;
+    font-size: 20px;
+}
